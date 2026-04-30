@@ -15,6 +15,8 @@ Data preview:
 - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%201.png
 - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%202.png
 
+- Initial dataset preview 1.png 
+
 
 ## Tools Used
 - Python (Pandas, NumPy)
