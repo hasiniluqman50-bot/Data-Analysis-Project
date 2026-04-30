@@ -30,8 +30,17 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 ## Features
 - Data cleaning using Python
   1. Dropping rows without salary, extract salary to create columns min and max salary
+
+     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/d09135933909603f13d424b1b0399ca2a26f8f0e/Cleaning%20salary.png
+
   2. Dropping all rows without data related jobs
+
+
+
   3. Extracting jobs experience requirement to categorized job position and level
+ 
+
+
   4. Cleaning location value to only give states
 
   
