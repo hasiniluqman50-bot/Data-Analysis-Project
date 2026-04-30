@@ -43,8 +43,11 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
   4. Cleaning location value to only give states
 
-  
+     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/1da195372782e15bd4499dd291c07d108cdf7022/Cleaning%20location.png
+     
 - Dashboard visualization in Power BI
+
+  1. Finding average salary and creating dashboard with graphs and cards on salary range, job title, location and job level  
 
 ## How to Run
 1. Open Python script:
