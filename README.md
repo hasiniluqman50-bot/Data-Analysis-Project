@@ -7,9 +7,9 @@ Analysis on salary range regarding data related job in Malaysia
 An analysis on job posting dataset to find the salary range for data related job in Malaysia. The dataset contains the job posting data from Jobstreet from March 2024 until May 2025. 
 
 Source of data:
-  https://drive.google.com/file/d/1y-gdIAUDEa076ewD1zWAx3PGo6ae_aiV/view?usp=drive_link
+  - https://drive.google.com/file/d/1y-gdIAUDEa076ewD1zWAx3PGo6ae_aiV/view?usp=drive_link
             or :
-  https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset 
+  - https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset 
 
 Data preview:
 - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%201.png
