@@ -17,6 +17,11 @@ Initial dataset preview 1.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
 Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%202.png
 
+## Research question
+
+- What is the salary range for fresh graduates and other position for some data related job?
+- Do the salary range differ depending on states?
+- Which job category offer better salary?
 
 ## Tools Used
 - Python (Pandas, NumPy)
@@ -24,6 +29,12 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
 ## Features
 - Data cleaning using Python
+  1. Dropping rows without salary, extract salary to create columns min and max salary
+  2. Dropping all rows without data related jobs
+  3. Extracting jobs experience requirement to categorized job position and level
+  4. Cleaning location value to only give states
+
+  
 - Dashboard visualization in Power BI
 
 ## How to Run
