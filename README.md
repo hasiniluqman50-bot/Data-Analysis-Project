@@ -57,4 +57,3 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 2. Open Power BI file:
    https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cec90cd577dc53b41ad1e3d6e6ca9d19889171fb/ANALYSIS%20ON%20SALARY%20RANGE.pbix
 
-Cleaning experience.png
