@@ -12,7 +12,7 @@ Source of data:
   https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset 
 
 Data preview:
-Initial dataset preview 1.png
+https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%201.png
 
 
 ## Tools Used
