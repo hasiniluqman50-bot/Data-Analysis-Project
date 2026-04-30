@@ -35,7 +35,7 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
   2. Dropping all rows without data related jobs
 
-
+     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/89108877a9acbfb695b23c04600adc00acad4a64/Cleaning%20job%20title.png
 
   3. Extracting jobs experience requirement to categorized job position and level
  
