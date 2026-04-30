@@ -39,7 +39,7 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
   3. Extracting jobs experience requirement to categorized job position and level
  
-
+     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/7a8a1a359b688cc0b82281e911dbed0f2b2cc799/Cleaning%20experience.png
 
   4. Cleaning location value to only give states
 
