@@ -8,7 +8,7 @@ An analysis on job posting dataset to find the salary range for data related job
 
 Source of data:
   https://drive.google.com/file/d/1y-gdIAUDEa076ewD1zWAx3PGo6ae_aiV/view?usp=drive_link
-            or:
+            or :
   https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset 
 
 Data preview:
