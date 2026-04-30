@@ -49,7 +49,9 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
   1. Finding average salary and creating dashboard with graphs and cards on salary range, job title, location and job level  
 
-## How to Run
+     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/a0b0adb6b144de2fa9aace75fead8d5fb9c5530f/Dashboard.png
+  
+## File
 1. Open Python script:
    https://colab.research.google.com/drive/1jwkoB15NYbKXtDXio2cjTPj34UqMez77?usp=drive_link
 2. Open Power BI file:
