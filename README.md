@@ -55,6 +55,12 @@ Initial dataset preview 2  <img width="1277" height="569" alt="Initial Dataset P
   1. Finding average salary and creating dashboard with graphs and cards on salary range, job title, location and job level  
 
      <img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
+
+     
+
+https://github.com/user-attachments/assets/12fd1925-c483-4837-b510-f06737a1e55f
+
+
   
 ## File
 1. Open Python script:
