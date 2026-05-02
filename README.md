@@ -19,7 +19,7 @@ Initial dataset preview 1.png - https://github.com/hasiniluqman50-bot/Data-Analy
 
 Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%202.png
 
-![Preview](Initial dataset preview 2.png) 
+![Preview] (Initial dataset preview 2.png) 
 
 ## Research question
 
