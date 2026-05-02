@@ -1,7 +1,5 @@
-# Data-Analysis-Project
+# Analysis on salary range regarding data related job in Malaysia
 
-## Project Title
-Analysis on salary range regarding data related job in Malaysia
 
 ## Project Description
 An analysis on job posting dataset to find the salary range for data related job in Malaysia. The dataset contains the job posting data from Jobstreet from March 2024 until May 2025. 
@@ -60,6 +58,9 @@ Initial dataset preview 2  <img width="1277" height="569" alt="Initial Dataset P
 
 https://github.com/user-attachments/assets/12fd1925-c483-4837-b510-f06737a1e55f
 
+
+## Conclusion
+Based on the dashboard preview, it shows that salary range and average salary can differ based on postion, states and job types. In Selangor, the highest average salary for fresh graduates or junior level is RM 4427 for data scientist role while in Perak, the highest average salary for fresh graduates or junior level is RM 3568 for data engineer role. In Perak, the salary range for junior data analyst is RM 2150 to Rm 4300 with average salary of RM 2941.
 
   
 ## File
