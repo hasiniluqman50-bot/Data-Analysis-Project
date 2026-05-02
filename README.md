@@ -13,13 +13,9 @@ Source of data:
 
 Data preview:
 
-Initial dataset preview 1.png - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%201.png
+Initial dataset preview 1  <img width="1277" height="569" alt="Initial Dataset Preview 2" src="Initial dataset preview 1.png" />
 
-![Initial dataset preview](Initial dataset preview 1.png) 
-
-Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/cea4ee6f2d901a7d2875db22ca04299443d1d955/Initial%20dataset%20preview%202.png
-
-
+Initial dataset preview 2  <img width="1277" height="569" alt="Initial Dataset Preview 2" src="Initial dataset preview 2.png" />
 
 ## Research question
 
@@ -35,25 +31,25 @@ Initial dataset preview 2.png - https://github.com/hasiniluqman50-bot/Data-Analy
 - Data cleaning using Python
   1. Dropping rows without salary, extract salary to create columns min and max salary
 
-     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/d09135933909603f13d424b1b0399ca2a26f8f0e/Cleaning%20salary.png
+     <img width="1277" height="569" alt="Cleaning salary" src="Cleaning salary.png" />
 
   2. Dropping all rows without data related jobs
 
-     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/89108877a9acbfb695b23c04600adc00acad4a64/Cleaning%20job%20title.png
+     <img width="1277" height="569" alt="Cleaning job title" src="Cleaning job title.png" />
 
   3. Extracting jobs experience requirement to categorized job position and level
  
-     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/7a8a1a359b688cc0b82281e911dbed0f2b2cc799/Cleaning%20experience.png
+     <img width="1277" height="569" alt="Cleaning experience" src="Cleaning experience.png" />
 
   4. Cleaning location value to only give states
 
-     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/1da195372782e15bd4499dd291c07d108cdf7022/Cleaning%20location.png
+     <img width="1277" height="569" alt="Cleaning experience" src="Cleaning experience.png" />
      
 - Dashboard visualization in Power BI
 
   1. Finding average salary and creating dashboard with graphs and cards on salary range, job title, location and job level  
 
-     https://github.com/hasiniluqman50-bot/Data-Analysis-Project/blob/a0b0adb6b144de2fa9aace75fead8d5fb9c5530f/Dashboard.png
+     <img width="1277" height="569" alt="Dashboard" src="Dashboard.png" />
   
 ## File
 1. Open Python script:
