@@ -33,19 +33,24 @@ Initial dataset preview 2  <img width="1277" height="569" alt="Initial Dataset P
 
      <img width="1277" height="569" alt="Cleaning salary" src="Cleaning salary.png" />
 
+
   2. Dropping all rows without data related jobs
 
      <img width="1277" height="569" alt="Cleaning job title" src="Cleaning job title.png" />
+
 
   3. Extracting jobs experience requirement to categorized job position and level
  
      <img width="1277" height="569" alt="Cleaning experience" src="Cleaning experience.png" />
 
+
   4. Cleaning location value to only give states
 
      <img width="1277" height="569" alt="Cleaning experience" src="Cleaning experience.png" />
+
      
 - Dashboard visualization in Power BI
+
 
   1. Finding average salary and creating dashboard with graphs and cards on salary range, job title, location and job level  
 
