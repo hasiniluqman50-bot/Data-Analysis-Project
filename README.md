@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/12fd1925-c483-4837-b510-f06737a1e55f
 
 
 ## Conclusion
-Based on the dashboard preview, it shows that salary range and average salary can differ based on postion, states and job types. In Selangor, the highest average salary for fresh graduates or junior level is RM 4427 for data scientist role while in Perak, the highest average salary for fresh graduates or junior level is RM 3568 for data engineer role. In Perak, the salary range for junior data analyst is RM 2150 to Rm 4300 with average salary of RM 2941.
+Based on the dashboard preview, it shows that salary range and average salary can differ based on position, states and job types. In Selangor, the highest average salary for fresh graduates or junior level is RM 4427 for data scientist role while in Perak, the highest average salary for fresh graduates or junior level is RM 3568 for data engineer role. In Perak, the salary range for junior data analyst is RM 2150 to Rm 4300 with average salary of RM 2941.
 
   
 ## File
